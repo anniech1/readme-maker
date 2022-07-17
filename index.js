@@ -51,6 +51,8 @@ inquirer.prompt([
 ]).then(answers => {
     console.log(answers)
     const README = `
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # ${answers.title}
 ## Description
 ${answers.description}
