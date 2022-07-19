@@ -18,7 +18,7 @@ To install this project, clone the repository from GitHub.
 ## Usage
 To best demonstrate user flow through the application, watch the test case screen recording below:
 
-![https://drive.google.com/file/d/1ALrA1dbm8Zr3u79XN79PxqtTDKOXg9bf/view](https://drive.google.com/file/d/1ALrA1dbm8Zr3u79XN79PxqtTDKOXg9bf/view)
+[README maker.webm](https://user-images.githubusercontent.com/107431063/179654526-39079ea5-f1e2-4905-8b29-9c7a2c007452.webm)
                            
 ## Credits 
 Help sourced from Office Hours demonstations.
