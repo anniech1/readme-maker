@@ -34,7 +34,7 @@ inquirer.prompt([
     },
     {
         name: "license",
-        message:"Which is your preferred liscense?",
+        message:"Which is your preferred license?",
         type:"checkbox",
         choices:["MIT", "other", "another other"]
     },
