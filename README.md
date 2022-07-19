@@ -18,7 +18,7 @@ To install this project, clone the repository from GitHub.
 ## Usage
 To best demonstrate user flow through the application, watch the test case screen recording below:
 
-[https://drive.google.com/file/d/1ALrA1dbm8Zr3u79XN79PxqtTDKOXg9bf/view]
+![](https://drive.google.com/file/d/1ALrA1dbm8Zr3u79XN79PxqtTDKOXg9bf/view)
                            
 ## Credits 
 Help sourced from Office Hours demonstations.
